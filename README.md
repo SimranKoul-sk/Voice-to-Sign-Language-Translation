@@ -1,4 +1,4 @@
-# Voice-to-Sin-Language-Translation
+# Voice-to-Sign-Language-Translation
 
 Proposed Solution
 
